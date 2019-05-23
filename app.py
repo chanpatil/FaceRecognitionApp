@@ -821,9 +821,9 @@ def video_stat():
 
 if __name__ == '__main__':
     database()
-#    Port = int(os.environ.get('PORT', 5000))
-#    app.run(host='0.0.0.0',debug=True, port=Port)
-    app.run()
+    Port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0',debug=True, port=Port)
+    #app.run()
 
     
 
