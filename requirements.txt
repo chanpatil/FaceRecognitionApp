@@ -23,4 +23,5 @@ gunicorn
  Werkzeug==0.12.2
  face_recognition==1.2.3
  regex==2019.04.14
+ requests==2.22.0
  
