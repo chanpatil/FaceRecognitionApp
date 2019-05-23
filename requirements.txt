@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.3
-boost==0.1
 dlib==19.17.0
+boost==0.1
 cmake==3.13.3
 bs4==0.0.1
 cloudpickle==0.5.5
