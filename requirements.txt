@@ -22,3 +22,5 @@ gunicorn
  six==1.10.0
  Werkzeug==0.12.2
  face_recognition==1.2.3
+ regex==2019.04.14
+ 
