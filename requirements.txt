@@ -13,7 +13,7 @@ gunicorn
  matplotlib==2.0.2
  numpy==1.13.0
  olefile==0.44
- opencv-python==3.2.0.7
+ opencv-python==3.3.1.11
  Pillow==4.1.1
  pymongo==3.4.0
  pyparsing==2.2.0
